@@ -2,7 +2,7 @@
 ---
 
 ### **👋 Hi, I'm Akshat Jain (@jain17akshat)**  
-🚀 **Frontend Developer | Aspiring Full-Stack Developer**  
+🚀 ** Aspiring Full-Stack Developer**  
 
 💻 Passionate about crafting seamless and interactive web experiences. Currently, diving deeper into **Full-Stack Web Development** to enhance my skills beyond the frontend.  
 
